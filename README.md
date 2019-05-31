@@ -12,8 +12,7 @@ This is example on how to create cube using Java.
    - [Requirements](#requirements)
    - [Installation](#installation)
    - [Usage](#usage)
-   - [Previews](#previews)
-     - [Screenshots](#screenshots)
+   - [Screenshots](#screenshots)
 4. [Credits](#credits)
 5. [License](#license)
 
@@ -35,9 +34,7 @@ This is example on how to create cube using Java.
 2. Then, open folder ```dist```.
 3. Click at file ```cube.jar```.
 
-### Previews
-
-#### Screenshots
+### Screenshots
 
 ![cube-screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture11.png)
 
